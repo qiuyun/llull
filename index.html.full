@@ -1,0 +1,108 @@
+<html>
+<head>
+<title>Qiuyun Wang</title>
+<link rel='stylesheet' type='text/css' href='style.css'>
+</head>
+<body>
+
+<div id="nav">
+<h2 class="hide">Menu:</h2>
+<ul>
+</ul>
+</div>
+
+<div id="content">
+<p><h2>Qiuyun Wang </h2>
+<h3>Ph.D. Candidate, Computer Engineering </h3><p>
+
+<h4>Download Resume (<a href="cvWang2015.pdf">pdf</a>, <a href="cvWang2015text.txt">txt</a>)      <a href="http://www.linkedin.com/pub/qiuyun-wang/37/34/bb7">LinkedIn Profile</a></h4>
+
+
+<p><img style="float:right" height="350px" src="qiuyun.png" alt="Qiuyun" />
+I am a fourth year PhD student in the department of <a href="http://www.ee.duke.edu">Electrical and Computer Engineering</a> at <a href="http://www.duke.edu">Duke University</a>.
+I am working with <a href="http://people.duke.edu/~bcl15">Dr. Benjamin C. Lee</a> 
+in the <a href="http://arch.cs.duke.edu/">Computer Architecture Group</a>.
+
+<p> My research areas are resource allocation and scheduling policies for 
+large-scale server systems. My current research topic is coordinating 
+memory data locality with task scheduling policies to achieve 
+energy-efficiency and high-throughput for datacenter workloads 
+(e.g., Spark, GraphLab). I am also interested in heterogeneous architecture
+design, resource management policies for warehouse-scale computers with 
+economics and game theory.
+
+<p>I received my Master of Science degree in Information Systems and Technology from 
+<a href="http://www.u-psud.fr"> Université Paris Sud (Paris XI, France)</a> in 2012. 
+I was fortunate to spend six months in <a href="http://lap.epfl.ch/">École Polytechnique Fédérale de Lausanne (EPFL, Swtizerland)</a> working on my master thesis: multiprocessor debugging and performance analysis for QorIQ P5020 development system.
+ 
+I obtained my Bachelor of Engineering degree from <a href="http://english.hust.edu.cn"> Huazhong University of Science and Technology (HUST, China)</a> in 2010 with a major in Optoelectronic Information Engineering. 
+
+<p>&nbsp;</p>
+
+<H3>Publications</H3>
+<ul>
+<li> Qiuyun Wang and Benjamin C. Lee <a href="http://dx.doi.org/10.1145/2818613.2818743">"Modeling Communication Costs in Blade Servers</a></em>" <a href="http://www.ssrc.ucsc.edu/sosp15/workshops/HotPower">Proc. 8th Workshop on Power-Aware Computing and Systems (HotPower) </a></em>, October 2015, Monterey, CA, USA <a href="http://people.duke.edu/~bcl15/documents/wang2015-hotpower.pdf">(pdf)</a>.<em> To appear on Operating System Review, December, 2015.</em>
+<p>
+
+<li> Qiuyun Wang, Manel Abid, Michel Kieffer and Beatrice Pesquet-Popescu <a href="papers/icassp2012.pdf"> "MAP Estimation of the Input of an Oversampled Filter Bank from Noisy Subbands by Belief Propagation </a>" <a href="http://www.icassp2012.com/">IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</a>, March 2013, Kyoto, Japan
+<p>
+</ul>
+
+<p>&nbsp;</p>
+<H3>News</H3>
+<ul>
+<li> I presented my research paper Modeling Communication Costs in Blade Server in <a href="https://engineering.purdue.edu/~hotpower/">HotPower15'</a> at Monterey, California.
+<p>
+
+<li> I presented tutorial <a href="http://people.duke.edu/~bcl15/tutorial/dsm14/">Datacenter Simulation Methodologies</a> 
+for Web search and GraphLab workloads at  <a href="http://www.ece.cmu.edu/calcm/isca2015/">ISCA 2015</a>
+and <a href="http://www.ispass.org/ispass2015/">ISPASS 2015</a>.
+<p>
+
+<li> I presented a full-day tutorial 
+<a href="http://people.duke.edu/~bcl15/tutorial/dsm14/">Datacenter Simulation Methodologies</a> 
+in <a href="http://www.microarch.org/micro47/">MICRO 2014</a> 
+at Cambridge UK, along with my colleague Tamara and my adviser Ben.
+<p>
+
+<li> I served as the president of 
+<a href="http://acmw.cs.duke.edu/">ACM-W Duke</a> Chapter for academic 
+year 2014 - 2015. 
+<p>
+
+<li> I joined <a href="http://labs.oracle.com/">Oracle Labs</a> as an intern 
+from Jun. 2nd to Nov. 26th 2014, working with Evangelos Vlachos 
+and Arun Raghavan on Project RAPID. </li>
+<p>
+
+<li> I presented my research project "NUMA-Aware Datacenter Scheduler" 
+as a poster at <a href="http://www.ece.duke.edu/2014-ece-graduate-workshop/"> 2014 Duke ECE Graduate Workshop </a> 
+on Jan 23rd, 2014. </li>
+</ul>
+
+<p>&nbsp;</p>
+<H3> Graduate Courses</H3>
+<ul>
+<li> Mathematical Finance (Fall 2015) </li>
+<li> Heterogeneous Computing (Spring 2015) </li>
+<p>
+<li> Parallel Computer Architecture (Spring 2014) </li>
+<li> Computational Microeconomics (Spring 2014) </li>
+<p>
+<li> Datacenter Architecture (Fall 2013) </li>
+<li> Signal Processing (Fall 2013) </li>
+<li> Compiler Construction (Spring 2013) </li>
+<li> Operating Systems (Spring 2013) </li>
+<p>
+<li> Advance Computer Architecture (Fall 2012) </li>
+<li> Introduction to Operating System (Fall 2012) </li>
+<p>
+</ul>
+
+
+
+
+<p>&nbsp;</p>
+<H3>Contact Me</H3>
+<p><h>Email: qw33 [at] duke [dot] edu</h>
+<p>Office: Hudson 213, Duke University, Durham, NC, 27708 
